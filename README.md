@@ -1,3 +1,6 @@
+# About the author
+![cv](cv.png)
+
 # Falcon Post-Quantum Signature Implementation
 
 ## Overview

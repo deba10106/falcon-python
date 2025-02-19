@@ -1,6 +1,7 @@
 # Python virtual environment
 venv/
 post_quantum_falcon_crypto_sig_poc/
+liboqs-python/
 
 # Byte-compiled files
 __pycache__/
